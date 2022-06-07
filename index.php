@@ -3,7 +3,7 @@
 	<body>
 		<?php
 			//echo date('Y-m-d h:i:s');
-			require_once('number.php');
+			require_once('string.php');
 		?>
 	</body>
 </html>
