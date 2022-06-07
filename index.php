@@ -1,9 +1,8 @@
-<?php 
-  session_start();
-  echo "Hello php!";
-  include "./index.html";
-  echo "something"
-?>
+<!DOCTYPE html>
 <html>
-wee woo
+	<body>
+		<?php
+			echo date('Y-m-d h:i:s');
+		?>
+	</body>
 </html>
