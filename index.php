@@ -1,6 +1,6 @@
 <?php 
   session_start();
-  echo "Hello";
+  echo "Hello php!";
   include "./index.html";
   echo "something"
 ?>
